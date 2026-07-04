@@ -4,7 +4,7 @@
 
 ## 在线使用
 
-### [**》》 点我直接使用 《《**](https://gtxx3600.github.io/GPTSession2CPAandSub2API/)
+### [**》》 点我直接使用 《《**](https://gpt-session.chumeng.plus)
 
 ## 使用提示
 
